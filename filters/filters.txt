@@ -1,0 +1,2627 @@
+103.7.30.55 report.huatuo.qq.com^
+111.161.64.48 .qq.com^
+119.28.164.220 dlied1.tcdn.qq.com^
+119.28.183.233 pay.igamecj.com^
+122.225.107.96 xiazai.downok.com^
+127.0.0.1 10.0.0.200^
+127.0.0.1 103.7.30.40^
+127.0.0.1 107.155.58.98^
+127.0.0.1 110.qq.com^
+127.0.0.1 111.161.64.40^
+127.0.0.1 111.161.64.48^
+127.0.0.1 111.30.131.23^
+127.0.0.1 121.51.160.100^
+127.0.0.1 123.151.152.50^
+127.0.0.1 123.151.66.78^
+127.0.0.1 125.39.240.55^
+127.0.0.1 157.255.174.11^
+127.0.0.1 157.255.246.101^
+127.0.0.1 172.104.163.233^
+127.0.0.1 183.192.201.116^
+127.0.0.1 183.232.98.178^
+127.0.0.1 183.3.226.206^
+127.0.0.1 183.61.46.193^
+127.0.0.1 203.205.146.12^
+127.0.0.1 203.205.177.41^
+127.0.0.1 203.205.179.210^
+127.0.0.1 203.205.179.220^
+127.0.0.1 203.205.219.57^
+127.0.0.1 203.205.219.58^
+127.0.0.1 23.5.13.127^
+127.0.0.1 403361.d1.download.ettdnsv.com^
+127.0.0.1 404187.d1.download.ettdnsv.com^
+127.0.0.1 436640.sp.tencdns.net^
+127.0.0.1 49.51.42.152^
+127.0.0.1 58.144.154.100^
+127.0.0.1 58.251.139.182^
+127.0.0.1 698683.sp.tencdns.net^
+127.0.0.1 888.qq.com^
+127.0.0.1 a1792.dscd.akamai.net^
+127.0.0.1 ads.qq.com^
+127.0.0.1 akamaihd.net^
+127.0.0.1 amazonaws.com^
+127.0.0.1 android.bugly.qq.com^
+127.0.0.1 api.instabug.com^
+127.0.0.1 api.pr.weixin.qq.com^
+127.0.0.1 api.twitter.com^
+127.0.0.1 apm.wetest.qq.com^
+127.0.0.1 app.adjust.com^
+127.0.0.1 apple.com^
+127.0.0.1 appsupport.qq.com^
+127.0.0.1 beacon.sparta.mig.tencent-cloud.net^
+127.0.0.1 block.security.tencent.com^
+127.0.0.1 block.tencent.com^
+127.0.0.1 bugly.qq.com^
+127.0.0.1 c.gj.qq.com:443^
+127.0.0.1 c.tdm.qq.com^
+127.0.0.1 c1.qq.com^
+127.0.0.1 cdn.wetest.qq.com.cloud.tc.qq.com^
+127.0.0.1 cdn.wetest.qq.com^
+127.0.0.1 cfg.imtt.qq.com^
+127.0.0.1 cgcol.amap.com^
+127.0.0.1 cgi.connect.qq.com^
+127.0.0.1 cgiaccess.tcdn.qq.com^
+127.0.0.1 clientrz2.itop.qq.com^
+127.0.0.1 cloud.gsdk.proximabeta.com^
+127.0.0.1 cloud.gsdk.qq.com^
+127.0.0.1 cmn1.qq.com^
+127.0.0.1 cnc1.qq.com^
+127.0.0.1 com.tencent.beacon^
+127.0.0.1 crmn1.qq.com^
+127.0.0.1 cs.mbgame.gamesafe.qq.com^
+127.0.0.1 d.tdm.qq.com^
+127.0.0.1 debugtbs.qq.com^
+127.0.0.1 debugx5.qq.com^
+127.0.0.1 dldir1.qq.com^
+127.0.0.1 dlied1.pubgmobile.com^
+127.0.0.1 dlied1.qq.com^
+127.0.0.1 dlied1.tcdn.pubgmobile.com^
+127.0.0.1 dlied1.tcdn.qq.com^
+127.0.0.1 dlied2.qq.com^
+127.0.0.1 dlied2.tcdn.qq.com^
+127.0.0.1 dlied3.qq.com^
+127.0.0.1 dlied3.tc.qq.com^
+127.0.0.1 dlied3.tcdn.qq.com^
+127.0.0.1 dlied4.qq.com^
+127.0.0.1 dlied4.tc.qq.com^
+127.0.0.1 dlied4.tcdn.qq.com^
+127.0.0.1 dlied5.qq.com^
+127.0.0.1 dlied5.tc.qq.com^
+127.0.0.1 dlied5.tcdn.qq.com^
+127.0.0.1 dns.qq.com^
+127.0.0.1 doc-10-8s-docs.googleusercontent.com^
+127.0.0.1 docs.itop.qq.com^
+127.0.0.1 down.qq.com^
+127.0.0.1 e.crashlytics.com^
+127.0.0.1 e4478.a.akamaiedge.net^
+127.0.0.1 e4805.a.akamaiedge.net^
+127.0.0.1 e6156.dscf.akamledge.net^
+127.0.0.1 e673.dsce9.akamaiedge.net^
+127.0.0.1 edge-mqtt.facebook.com^
+127.0.0.1 en.qq.com^
+127.0.0.1 euping.igamecj.com^
+127.0.0.1 euping.igamecj.com^
+127.0.0.1 events-endpoint-b-1623273513.us-east-1.elb.amazonaws.com^
+127.0.0.1 file-igamecj.akamaized.net^
+127.0.0.1 file.igamecj.com^
+127.0.0.1 firebasedynamickinks-ipv4.googleapis.com^
+127.0.0.1 fusion.qq.com^
+127.0.0.1 game.eve.mdt.qq.com^
+127.0.0.1 game.str.mdt.qq.com^
+127.0.0.1 gateway.fe.apple-dns.net^
+127.0.0.1 gateway.icloud.com^
+127.0.0.1 google.com^
+127.0.0.1 googleapis.com^
+127.0.0.1 googleapis.I.google.com^
+127.0.0.1 graph.qq.com^
+127.0.0.1 guanjia.qq.com^
+127.0.0.1 hk.api.unipay.qq.com^
+127.0.0.1 hk.voice.gcloudcs.com^
+127.0.0.1 hkconfig.gcloud.qq.com^
+127.0.0.1 hkping.igamecj.com^
+127.0.0.1 hkping.igamecj.com^
+127.0.0.1 http.route.default-proxy^
+127.0.0.1 huatuo.qq.com^
+127.0.0.1 huatuocode.huatuo.qq.com^
+127.0.0.1 iadsdk.apple.com^
+127.0.0.1 icloud.com^
+127.0.0.1 id.qq.com^
+127.0.0.1 idc.dir.tdm.qq.com^
+127.0.0.1 idc.receiver.tdm.qq.com^
+127.0.0.1 idcconfig.gcloud.qq.com^
+127.0.0.1 idcconfig.gcloud.wechatos.net^
+127.0.0.1 ig-us-notice.igamecj.com^
+127.0.0.1 ig-us-sdkapi.igamecj.com^
+127.0.0.1 im.qq.com^
+127.0.0.1 imgcache.qq.com^
+127.0.0.1 intl.cloud.tencent.com^
+127.0.0.1 keenlab.tencent.com^
+127.0.0.1 krping.igamecj.com^
+127.0.0.1 lb- d.us1.gigya.com^
+127.0.0.1 log.tbs.qq.com^
+127.0.0.1 log1.wtlogin.qq.com^
+127.0.0.1 logs.game.qq.com^
+127.0.0.1 long.open.weixin.qq.com^
+127.0.0.1 m.guanjia.qq.com:443^
+127.0.0.1 m.gunjia.qq.com^
+127.0.0.1 m.qpic.cn^
+127.0.0.1 masdk.3g.qq.com^
+127.0.0.1 mazu.3g.qq.com^
+127.0.0.1 mdc.html5.qq.com^
+127.0.0.1 meping.igamecj.com^
+127.0.0.1 mq.vip.qq.com^
+127.0.0.1 mqqad.html5.qq.com^
+127.0.0.1 mta.oa.com^
+127.0.0.1 mta.qq.com^
+127.0.0.1 mx1.qq.com^
+127.0.0.1 mx2.qq.com^
+127.0.0.1 mx3.qq.com^
+127.0.0.1 mycdma.cn^
+127.0.0.1 naping.igamecj.com^
+127.0.0.1 naping.igamecj.com^
+127.0.0.1 ns-cmn1.qq.com^
+127.0.0.1 ns-cnc1.qq.com^
+127.0.0.1 ns-crmn1.qq.com^
+127.0.0.1 ns-ns1.qq.com^
+127.0.0.1 ns-open2.qq.com^
+127.0.0.1 ns-os.qq.com^
+127.0.0.1 ns-os1.qq.com^
+127.0.0.1 ns-osr.qq.com^
+127.0.0.1 ns-Owu1.qq.com^
+127.0.0.1 ns-tel1.qq.com^
+127.0.0.1 ns-telqq.com^
+127.0.0.1 ns-teq.com^
+127.0.0.1 ns02.adjust.works^
+127.0.0.1 ns1.qq.com^
+127.0.0.1 ns2.qq.com^
+127.0.0.1 ns3.qq.com^
+127.0.0.1 ns4.qq.com^
+127.0.0.1 open.weixin.qq.com^
+127.0.0.1 openmobile.qq.com^
+127.0.0.1 ops.qq.com^
+127.0.0.1 os.qq.com^
+127.0.0.1 os1.qq.com^
+127.0.0.1 osr.qq.com^
+127.0.0.1 oth.eve.mdt.qq.com^
+127.0.0.1 oth.str.mdt.qq.com^
+127.0.0.1 oth.update.mdt.qq.com^
+127.0.0.1 Owu1.qq.com^
+127.0.0.1 p.mb.qq.com^
+127.0.0.1 p37-buy.itunes-apple.com.akadns.net^
+127.0.0.1 p37-buy.itunes.apple.com^
+127.0.0.1 pay.igamecj.com^
+127.0.0.1 pbs.twimg.com^
+127.0.0.1 pingfore.qq.com:443^
+127.0.0.1 pingjs.qq.com:443^
+127.0.0.1 pingma.qq.com^
+127.0.0.1 pingmid.qq.com^
+127.0.0.1 play.googleapis.co,^
+127.0.0.1 pms.mb.qq.com^
+127.0.0.1 pubgm.zing.vn^
+127.0.0.1 pubgmobile.com^
+127.0.0.1 pubgmobile.helpshift.com^
+127.0.0.1 public.igamecj.com^
+127.0.0.1 q.qlogo.cn^
+127.0.0.1 qappcenter.3g.qq.com^
+127.0.0.1 qbwup.imtt.qq.com^
+127.0.0.1 qos.gcloud.qq.com^
+127.0.0.1 qos.hk.gcloudcs.com^
+127.0.0.1 qq.com^
+127.0.0.1 qzs.qq.com^
+127.0.0.1 report.huatuo.qq.com:443^
+127.0.0.1 report.huatuo.qq.com^
+127.0.0.1 report.syzs.qq.com:443^
+127.0.0.1 res.imtt.qq.com^
+127.0.0.1 rqd.sparta.mig.tencent-cloud.net^
+127.0.0.1 rqd.uu.qq.com^
+127.0.0.1 s.pc.qq.com:443^
+127.0.0.1 sandbox.api.unipay.qq.com^
+127.0.0.1 saping.igamecj.com^
+127.0.0.1 saping.igamecj.com^
+127.0.0.1 secure.qq.com^
+127.0.0.1 secure.security.qq.com^
+127.0.0.1 secure.tcdn.qq.com^
+127.0.0.1 secure.tencent.com^
+127.0.0.1 security.sparta.mig.tencent-cloud.net^
+127.0.0.1 shore.is.autonavi.com^
+127.0.0.1 sngmta.qq.com^
+127.0.0.1 soft.tbs.imtt.qq.com^
+127.0.0.1 sparta.qb.mig.tencent-cloud.net^
+127.0.0.1 sq11.pg.qq.com^
+127.0.0.1 sq12.pg.qq.com^
+127.0.0.1 sq38.pg.qq.com^
+127.0.0.1 sq59.pg.qq.com^
+127.0.0.1 sqlobby.pg.qq.com^
+127.0.0.1 ssl.cloud.gsdk.qq.com^
+127.0.0.1 ssl.qq.com^
+127.0.0.1 stats.umsns.com^
+127.0.0.1 strategy.beacon.qq.com^
+127.0.0.1 sy.guanjia.qq.com:443^
+127.0.0.1 syndication.twitter.com^
+127.0.0.1 syzs.qq.com^
+127.0.0.1 szga.gov.cn^
+127.0.0.1 szmg.qq.com^
+127.0.0.1 tauth.qq.com^
+127.0.0.1 tel1.qq.com^
+127.0.0.1 telqq.com^
+127.0.0.1 tencent.com^
+127.0.0.1 tencentgames.helpshift.com^
+127.0.0.1 tencentmind.com^
+127.0.0.1 teq.com^
+127.0.0.1 test.vmp.qq.com^
+127.0.0.1 tgb.qq.com^
+127.0.0.1 tpns.qq.com^
+127.0.0.1 ts1.qq.com^
+127.0.0.1 ts2.qq.com^
+127.0.0.1 ts3.qq.com^
+127.0.0.1 ts4.qq.com^
+127.0.0.1 ts5.qq.com^
+127.0.0.1 ts6.qq.com^
+127.0.0.1 ts7.qq.com^
+127.0.0.1 ts8.qq.com^
+127.0.0.1 ts9.qq.com^
+127.0.0.1 users.qq.com^
+127.0.0.1 v.qq.com^
+127.0.0.1 vm.qq.com^
+127.0.0.1 vmp.qq.com^
+127.0.0.1 vnet.mobi^
+127.0.0.1 wechat.com^
+127.0.0.1 wechat.qq.com^
+127.0.0.1 wspeed.qq.com^
+127.0.0.1 wup.imtt.qq.com^
+127.0.0.1 x2.tcdn.qq.com^
+127.0.0.1 xiazai.downok.com^
+1270.0.1 iphonesubmissions.apple.com^
+132.232.197.88 pingma.qq.com^
+140.207.54.57 vmp.qq.com^
+166.138.204.18 .pubgmobile.com^
+18.211.61.121 lb- d.us1.gigya.com^
+180.163.26.100 logs.game.qq.com^
+203.205.128.167 m.gunjia.qq.com^
+203.205.128.167 security.sparta.mig.tencent-cloud.net^
+203.205.138.150 3gdl.tcdn.qq.com^
+203.205.138.241 dlied1.tcdn.qq.com^
+203.205.138.242 dlied1.tcdn.qq.com^
+203.205.138.79 .game.qq.com^
+203.205.146.14 log.tbs.qq.com^
+203.205.146.45 android.bugly.qq.com 1.1.1.1 sq12.pg.qq.com^
+203.205.146.45 rqd.sparta.mig.tencent-cloud.net^
+203.205.147.153 cgiaccess.tcdn.qq.com^
+203.205.151.106 hk.api.unipay.qq.com^
+203.205.151.14 szmg.qq.com^
+203.205.151.193 game.eve.mdt.qq.com^
+203.205.151.242 q.qlogo.cn^
+203.205.151.26 mq.vip.qq.com^
+203.205.158.62 x2.tcdn.qq.com^
+203.205.211.149 sq38.pg.qq.com^
+203.205.218.102 sqlobby.pg.qq.com^
+203.205.218.69 sparta.qb.mig.tencent-cloud.net^
+203.205.219.228 idcconfig.gcloud.qq.com^
+203.205.255.113 sq59.pg.qq.com^
+207.85.201.190 .helpshift.com^
+211.91.160.159 698683.sp.tencdns.net^
+216.58.221.238 216.58.221.238^
+217.31.233.162 a1792.dscd.akamai.net^
+221.204.60.28 436640.sp.tencdns.net^
+27.221.23.215 dlied2.tcdn.qq.com^
+36.86.63.180r administrador.tdm.qq.com^
+47.105.64.148 download02.ino.qq.com^
+47.105.64.148 download03.ino.qq.com^
+59.37.97.25 mta.qq.com^
+||.495495.com^
+||.551144.com^
+||.649649.com^
+||018520.com^
+||10.0.0.200^
+||10.0.0.200^
+||101.226.76.164^
+||101.226.76.164^
+||101.227.131.101^
+||101.227.131.64^
+||104.67.69.228^
+||107.155.58.100^
+||107.155.58.100^
+||107.155.58.98^
+||107.155.58.98^
+||107.155.58.98^
+||11.tdm.qq.com^
+||110.qq.com^
+||110.qq.com^
+||111.13.140.82^
+||111.13.140.82^
+||111.13.36.102^
+||111.13.36.102^
+||111.161.64.40^
+||111.161.64.48^
+||111.19.228.99^
+||111.19.228.99^
+||111.30.131.23^
+||111.30.131.23^
+||111.40.180.105^
+||111.40.180.105^
+||112.90.77.202^
+||113.107.238.11^
+||113.107.238.14^
+||113.107.238.15^
+||113.108.16.41^
+||113.17.231.235^
+||113.96.156.150^
+||113.96.156.151^
+||113.96.223.41^
+||113.96.223.44^
+||113.96.223.73^
+||113.96.223.75^
+||114.124.204.24^
+||114.124.204.24^
+||117.144.242.21^
+||117.144.242.21^
+||117.175.89.168^
+||117.175.89.168^
+||119.147.253.22^
+||119.147.33.33^
+||119.147.33.36^
+||119.28.105.32^
+||119.28.109.187^
+||119.28.114.82^
+||119.28.114.82^
+||119.28.153.32^
+||119.28.164.143:80^
+||119.28.164.143:80^
+||119.28.164.143^
+||119.28.164.202^
+||119.28.164.203:80^
+||119.28.164.203:80^
+||119.28.164.203^
+||119.28.164.219^
+||119.28.164.220^
+||119.28.164.220^
+||119.28.164.223^
+||119.28.198.18^
+||119.28.198.18^
+||119.28.198.21^
+||119.28.198.21^
+||119.28.198.33^
+||119.28.198.33^
+||119.28.200.39^
+||119.28.200.39^
+||119.28.208.40^
+||119.28.208.40^
+||119.28.211.34^
+||119.28.211.34^
+||119.28.244.50^
+||119.28.244.50^
+||119.28.244.50^
+||119.29.29.229^
+||120.204.10.204:3013^
+||120.204.10.204:3013^
+||121.51.36.19^
+||121.51.36.19^
+||121.51.67.113^
+||121.51.67.113^
+||121.57.67.104^
+||121.57.67.104^
+||123.151.152.50^
+||123.151.152.50^
+||124.156.12.16^
+||124.156.12.16^
+||124.156.12.236^
+||124.156.12.236^
+||124.156.13.37^
+||124.156.13.37^
+||124.156.63.114^
+||124.156.63.114^
+||125.39.127.22^
+||125.39.240.113^
+||125.39.240.55^
+||125.39.240.55^
+||125.39.241.248^
+||125.39.241.248^
+||13.56.219.150^
+||13.56.245.243^
+||13.57.169.27:443^
+||13.57.169.27:443^
+||13.57.77.238:443^
+||13.57.77.238:443^
+||13.57.86.94^
+||13023.url.7wkw.com^
+||14.17.11.163^
+||14.17.11.164^
+||14.17.17.115^
+||14.17.33.13^
+||14.17.41.220^
+||14.215.138.13^
+||14.215.139.250^
+||14.215.139.251^
+||14.215.139.253^
+||14.215.139.254^
+||140.206.160.191^
+||140.206.160.199^
+||140.207.123.184^
+||140.207.123.184^
+||140.207.135.21^
+||140.207.135.21^
+||140.207.137.32^
+||140.207.179.156^
+||140.207.179.156^
+||140.207.54.117^
+||140.207.54.117^
+||140.207.54.118^
+||140.207.54.118^
+||140.207.54.51^
+||140.207.54.51^
+||140.207.54.57:80^
+||140.207.54.57:80^
+||140.207.62.51^
+||140.207.69.43^
+||140.207.69.43^
+||142904.com^
+||149.154.175.50:443^
+||150.109.200.70:17500^
+||150.109.200.70:17500^
+||157.240.20.19:443^
+||157.240.20.19:443^
+||157.255.192.104^
+||157.255.192.104^
+||163.117.89.192^
+||163.117.89.192^
+||163.177.65.160^
+||163.177.72.188^
+||163.177.90.103^
+||163.177.90.103^
+||163.wrating.com^
+||169.38.104.175^
+||169.38.104.175^
+||170.106.83.225^
+||170.106.83.225^
+||172.104.163.233^
+||172.104.163.233^
+||172.104.163.233^
+||173.36.108.31:8081^
+||173.36.108.31:8081^
+||180.153.162.111^
+||180.153.162.111^
+||180.163.21.48^
+||180.163.21.48^
+||180.163.26.39^
+||182.254.10.42^
+||182.254.10.42^
+||182.254.116.117:80^
+||182.254.116.117:80^
+||182.254.116.117^
+||182.254.116.117^
+||182.254.116.117^
+||182.254.74.48^
+||182.254.74.48^
+||182.254.88.150^
+||182.254.88.150^
+||183.192.192.158^
+||183.192.192.158^
+||183.192.196.182^
+||183.192.196.182^
+||183.192.199.25^
+||183.192.199.25^
+||183.192.200.59^
+||183.192.200.59^
+||183.2.176.100^
+||183.203.17.14^
+||183.203.17.14^
+||183.232.119.221^
+||183.232.91.102^
+||183.232.96.114^
+||183.232.98.178^
+||183.232.98.178^
+||183.3.226.244^
+||183.36.108.31:8081^
+||183.36.108.31:8081^
+||183.36.108.32^
+||183.36.108.32^
+||183.57.48.33:8081^
+||183.57.48.33:8081^
+||183.61.46.193^
+||183.61.46.193^
+||183.61.49.204^
+||184.105.206.58^
+||184.105.206.59^
+||184.105.206.87^
+||184.105.206.88^
+||185.151.204.6:443^
+||185.151.204.6:443^
+||192.168.0.1^
+||1933000.com^
+||2.23.109.150:443^
+||2.23.109.150:80^
+||202.100.176.225^
+||203.205.128.130:80^
+||203.205.128.130:80^
+||203.205.128.130^
+||203.205.128.159:10012^
+||203.205.128.159:10012^
+||203.205.128.159:443^
+||203.205.128.159:443^
+||203.205.128.159:80^
+||203.205.128.159:80^
+||203.205.128.167^
+||203.205.138.231^
+||203.205.138.240^
+||203.205.138.241^
+||203.205.138.242^
+||203.205.138.243^
+||203.205.138.244:80^
+||203.205.138.244:80^
+||203.205.138.244^
+||203.205.138.245:80^
+||203.205.138.245:80^
+||203.205.138.245^
+||203.205.138.72:80^
+||203.205.138.72:80^
+||203.205.138.72^
+||203.205.138.73:443^
+||203.205.138.73:443^
+||203.205.138.73^
+||203.205.138.74^
+||203.205.138.82^
+||203.205.142.177^
+||203.205.142.207:8080^
+||203.205.142.207:8080^
+||203.205.143.142^
+||203.205.143.151^
+||203.205.146.122:14000^
+||203.205.146.122:14000^
+||203.205.146.122:443^
+||203.205.146.122:443^
+||203.205.146.122:8080^
+||203.205.146.122:8080^
+||203.205.146.122^
+||203.205.146.122^
+||203.205.146.122^
+||203.205.146.12^
+||203.205.146.12^
+||203.205.146.22^
+||203.205.146.38^
+||203.205.146.45:80^
+||203.205.146.45:80^
+||203.205.146.83^
+||203.205.147.218^
+||203.205.151.193:8080^
+||203.205.151.193:8080^
+||203.205.151.82^
+||203.205.151.83^
+||203.205.158.34^
+||203.205.158.35^
+||203.205.158.40^
+||203.205.158.41^
+||203.205.158.43^
+||203.205.158.48^
+||203.205.158.50^
+||203.205.158.51^
+||203.205.158.53^
+||203.205.158.54^
+||203.205.158.55^
+||203.205.158.56^
+||203.205.158.58^
+||203.205.158.59^
+||203.205.158.60^
+||203.205.158.61^
+||203.205.158.62^
+||203.205.179.210^
+||203.205.179.210^
+||203.205.179.215:7889^
+||203.205.179.215:7889^
+||203.205.179.220^
+||203.205.179.220^
+||203.205.179.230^
+||203.205.179.231^
+||203.205.211.75:14000^
+||203.205.211.75:14000^
+||203.205.211.75:8080^
+||203.205.211.75:8080^
+||203.205.211.75^
+||203.205.211.75^
+||203.205.218.69^
+||203.205.219.0/24^
+||203.205.219.228:443^
+||203.205.219.228:443^
+||203.205.255.186^
+||203710.com^
+||210.22.247.101^
+||210.22.247.101^
+||210.22.247.103^
+||210.22.247.103^
+||210.22.247.104^
+||210.22.247.104^
+||210.22.247.107^
+||210.22.247.107^
+||210.22.247.108^
+||210.22.247.108^
+||210.22.247.113^
+||210.22.247.113^
+||220.181.138.59^
+||220.249.243.107^
+||220.249.243.107^
+||220.249.244.124^
+||223.111.113.110^
+||223.111.113.110^
+||223.167.104.108^
+||223.167.104.108^
+||223.167.104.26^
+||223.167.104.26^
+||223.167.105.44^
+||223.167.252.141^
+||223.167.252.141^
+||223.167.252.143^
+||223.167.252.143^
+||223.167.252.144^
+||223.167.252.144^
+||223.167.252.145^
+||223.167.252.145^
+||223.167.252.146^
+||223.167.252.146^
+||223.167.252.154^
+||223.167.252.154^
+||223.167.86.22^
+||223.167.86.33:3013^
+||223.167.86.33:3013^
+||223.167.86.33^
+||223.167.86.33^
+||223.167.86.71^
+||23.204.157.111^
+||23.207.9.112^
+||23.220.248.218^
+||23.4.60.19^
+||23.75.214.30^
+||2345at.com^
+||27.45.166.145^
+||30350f.com^
+||30407799.com^
+||30ampj.com^
+||3180555.com^
+||32666099.com^
+||33544444.com^
+||36.86.63.182^
+||38330.bet^
+||39330.bet^
+||3gimg.qq.com^
+||4242jj.com^
+||4242lll.com^
+||4242uuu.com^
+||49.51.130.11:8085^
+||49.51.130.11:8085^
+||49.51.130.93:18081^
+||49.51.130.93:18081^
+||49.51.130.96:8086^
+||49.51.130.96:8086^
+||49.51.130.96:8088^
+||49.51.130.96:8088^
+||49.51.130.96^
+||49.51.130.96^
+||49.51.229.89^
+||49.51.229.89^
+||49.51.231.252^
+||49.51.231.252^
+||49.51.42.152^
+||49.51.42.152^
+||49.51.42.152^
+||49.51.42.201^
+||49.51.42.201^
+||49.51.42.99^
+||49.51.42.99^
+||49.51.78.41^
+||49.51.78.41^
+||4g.qq.com^
+||50.18.216.179^
+||50.18.32.157:443^
+||50.18.32.157:443^
+||52.52.240.97:443^
+||52.52.240.97:443^
+||52.9.200.173:443^
+||52.9.200.173:443^
+||54.183.177.71:443^
+||54.183.177.71:443^
+||54.183.229.183:443^
+||54.183.229.183:443^
+||54.183.85.57:443^
+||54.183.85.57:443^
+||54.193.49.77:443^
+||54.193.49.77:443^
+||54.215.174.122:443^
+||54.215.174.122:443^
+||54.215.219.77:443^
+||54.215.219.77:443^
+||54.219.155.55:443^
+||54.219.155.55:443^
+||54.219.231.106:443^
+||54.219.231.106:443^
+||54.241.185.189^
+||54.241.200.132^
+||54.241.40.234:443^
+||54.241.40.234:443^
+||54.67.103.135:443^
+||54.67.103.135:443^
+||54.67.103.135^
+||54.67.127.101^
+||555p555p.com^
+||58.246.220.12^
+||58.246.220.12^
+||58.247.205.110^
+||58.247.214.32^
+||58.247.214.32^
+||58.250.11.124^
+||58.250.136.0/24^
+||58.250.137.0/24^
+||58.250.137.42^
+||58.250.137.42^
+||58.251.100.24^
+||58.251.106.109^
+||58.251.106.109^
+||58.251.112.242^
+||58.251.112.89^
+||58.251.139.182^
+||58.251.139.182^
+||58.251.148.139^
+||58.251.148.13^
+||58.251.148.243^
+||58.251.148.245^
+||58.251.148.247^
+||58.251.148.249^
+||58.251.61.173^
+||58.251.81.0/24^
+||58.251.81.109^
+||58.60.9.100^
+||58.60.9.21^
+||59.37.96.63^
+||601654.com^
+||61.135.157.156^
+||649558.com^
+||6666349.com^
+||66992949.com^
+||700900.com^
+||749558.com^
+||76802.net^
+||77455.com^
+||8184.cc^
+||849558.com^
+||85058s.com^
+||878090.com^
+||888.qq.com^
+||888.qq.com^
+||90053999.com^
+||9565365.com^
+||9948000.com^
+||::1             ip6-localhost^
+||::1 ip6-localhost^
+||::1 ip6-loopback^
+||::1 localhost^
+||a.alimama.cn^
+||a.appjiagu.com^
+||a.cnzz.com^
+||a.mct01.com^
+||a.tanx.com^
+||a.tdm.qq.com^
+||aax-eu.amazon-adsystem.com^
+||abc.binmt.cc^
+||abs.twimg.com^
+||ac.atpanel.com^
+||ac.mmstat.com^
+||acc.qq.com^
+||access.video.qq.com^
+||acdn.adnxs.com^
+||acfs.tencent.com^
+||acookie.alimama.com^
+||acookie.linezing.com^
+||acs4baichuan.m.taobao.com^
+||act.commercial.shouji.360.cn^
+||act2.mediafour.com^
+||activate.adobe.com^
+||activation.cyberlink.com^
+||activation.easeus.com^
+||activation.phaseone.com^
+||ad.dev.360.cn^
+||ad.dokrmob.com^
+||ad.doubleclick.net^
+||ad.gamebox.360.cn^
+||ad.qq.com^
+||ad.qun.qq.com^
+||ad.tencent.com^
+||adapter.shouji.360.cn^
+||adash.m.taobao.com^
+||adash.man.aliyuncs.com^
+||adashbc.m.taobao.com^
+||adashbc.ut.taobao.com^
+||adashx.m.taobao.com^
+||adashxgc.ut.taobao.com^
+||ade.googlesyndication.com^
+||adimg.uve.weibo.com^
+||adm.icast.cn^
+||adm.leju.com^
+||adn.insight.ucweb.com^
+||adping.qq.com^
+||adpm.app.qq.com^
+||adrdir.qq.com^
+||ads.qq.com^
+||ads.qq.com^
+||ads1.msads.net^
+||adsclick.qq.com^
+||adservice.google.com^
+||adsfile.qq.com^
+||adsgroup.qq.com^
+||adshmct.qq.com^
+||adshmmsg.qq.com^
+||adslvfile.qq.com^
+||adslvseed.qq.com^
+||adsqqclick.qq.com^
+||adstextview.qq.com^
+||adstream.123.sogoucdn.com^
+||adsview.qq.com^
+||adsview2.qq.com^
+||adtrack.ucweb.com^
+||adv.app.qq.com^
+||adver.qq.com^
+||adx.xiaodutv.com^
+||ae.bdstatic.com^
+||aecpm.alicdn.com^
+||aeventlog.beacon.qq.com^
+||aexception.bugly.qq.com^
+||afd.baidu.com^
+||affiliates.tdm.qq.com^
+||affiliati.mtd.qq.com^
+||afp.adchina.com^
+||afp.alicdn.com^
+||afpeng.alimama.com^
+||afpmm.alicdn.com^
+||afpssp.alimama.com^
+||afptrack.alimama.com^
+||agd.p.360.cn^
+||agd2.p.360.cn^
+||agniveer.qq.stolen^
+||agoodm.m.taobao.com^
+||ai.m.taobao.com^
+||ai.taobao.com^
+||akamaihd.net^
+||alimama.alicdn.com^
+||alissl.ucdl.pp.uc.cn^
+||alitui.weibo.com^
+||alog.umeng.com^
+||alog.umengcloud.com^
+||als.baidu.com^
+||amazonaws.com^
+||anaheim.tdm.qq.com^
+||analy.qq.com^
+||analytics.163.com^
+||analytics.rayjump.com^
+||andmlbf.tj.ijinshan.com^
+||android.bugly.qq.com^
+||android.clients.google.com^
+||android.rqd.qq.com^
+||aombjl099.com^
+||aos.prf.hn^
+||api.appjiagu.com^
+||api.cognitive.microsofttranslator.com^
+||api.dingd.cn^
+||api.mp.uc.cn^
+||api.phenixos.com^
+||api.pr.weixin.qq.com^
+||api.ribaoapi.com^
+||api.share.baidu.com^
+||api.so.lianmeng.360.cn^
+||api.tuisong.baidu.com^
+||api.unipay.qq.com^
+||api.waptest.taobao.com^
+||api.weibo.com^
+||api.wsq.umeng.com^
+||apilocate.amap.com^
+||apm.wetest.qq.com^
+||apm.wetest.qq.com^
+||apm.wetst.qq.com^
+||apn.wetst.qq.com^
+||apnmedia.ask.com^
+||apns.ios.ijinshan.com^
+||apoll.m.taobao.com^
+||app-measurement.com^
+||app.adjust.com^
+||app.adjust.com^
+||app.qq.com^
+||appimg1.qq.com^
+||apple.com^
+||apple.imap.mail.yahoo.com^
+||applications.mtd.qq.com^
+||applog.uc.cn^
+||apps.game.qq.com^
+||apps.o.tencent.com^
+||appserver.mtd.qq.com^
+||appstore.tencent.com^
+||appsupport.qq.com^
+||apse-sstart.ludashi.com^
+||apse.ludashi.com^
+||apse.s.ludashi.com^
+||ar.umeng.com^
+||art.theta.sogoucdn.com^
+||asearch.alicdn.com^
+||Asian_hacks.stolen.com^
+||astat.bugly.qq.com^
+||astrategy.beacon.qq.com^
+||at.umeng.com^
+||atanx.alicdn.com^
+||atanx2.alicdn.com^
+||av1.xdring.com^
+||aw.mtd.qq.com^
+||b.appjiagu.com^
+||b.scorecardresearch.com^
+||b2.tdm.qq.com^
+||baby.qq.com^
+||backup.lumion3d.com^
+||backup.lumion3d.net^
+||badjs2.qq.com^
+||baidu.cn^
+||baidu.com.cn^
+||baidu.com^
+||baidut.github.io^
+||baker.tdm.qq.com^
+||bangbang.qq.com^
+||banner.alimama.com^
+||bb1429.com^
+||bbs.pcbeta.com^
+||bbs.tdm.qq.com^
+||bdimg.share.baidu.com^
+||bdplus.baidu.com^
+||bdsp.x.jd.com^
+||beacon.gtimg.com^
+||bet36500050.com^
+||beta.tdm.qq.com^
+||bilibili.com^
+||binaryage-leechgate.herokuapp.com^
+||bite.theta.sogoucdn.com^
+||bitsumactivationserver.com^
+||biz.weibo.com^
+||bj.bcebos.com^
+||bk.tencent.com^
+||bkcommdata.v.qq.com^
+||block.security.tencent.com^
+||block.tencent.com^
+||blogs.tdm.qq.com^
+||bm.alimama.cn^
+||bmvip.alimama.cn^
+||bns.qq.com^
+||bob.tdm.qq.com^
+||bootcss.com^
+||bp.mobad.ijinshan.com^
+||bsd1.tdm.qq.com^
+||btlaunch.baidu.com^
+||btrace.qq.com^
+||bugly.qq.com^
+||bugzilla.tdm.qq.com^
+||c-adash.m.taobao.com^
+||c.alimama.com^
+||c.appjiagu.com^
+||c.biz.weibo.com^
+||c.cnzz.com^
+||c.gj.qq.com:443^
+||c.gj.qq.com^
+||c.isdspeed.qq.com^
+||c.msn.com^
+||c.silvinst.com^
+||c.tdm.qq.com^
+||c.wcpt.biz.weibo.com^
+||c.wrating.com^
+||c1.668559.com^
+||c1.qq.com^
+||c16cp358.com^
+||c2.58toto.net^
+||c77777777.com^
+||cache.cnzz.com^
+||cache.tv.qq.com^
+||calvin.mtd.qq.com^
+||cap.cyberlink.com^
+||captcha.qq.com^
+||cast.ra.icast.cn^
+||cb.alimama.cn^
+||cbjs.baidu.com^
+||cbs.wondershare.com^
+||ccb.uncle-ad.com^
+||ccc-x.jd.com^
+||cdb.cloud.tencent.com^
+||cdc.tencent.com^
+||cdn-adn.rayjump.com^
+||cdn-ads.oss-cn-shanghai.aliyuncs.com^
+||cdn.app.kachapt.cn^
+||cdn.app.liuxingyul.cn^
+||cdn.appnext.com^
+||cdn.ark.qq.com^
+||cdn.img.kachapt.cn^
+||cdn.img.liuxingyul.cn^
+||cdn.lu.sogoucdn.com^
+||cdn.m.tencent.com^
+||cdn.multilingualres.hr.tencent.com^
+||cdn.pcbeta.attachment.inimc.com^
+||cdn.pcbeta.css.inimc.com^
+||cdn.pcbeta.static.inimc.com^
+||cdn.phoenixos.com^
+||cdn.puata.info^
+||cdn.read.html5.qq.com^
+||cdn.tanx.com^
+||cdn.wetest.qq.com.cloud.tc.qq.com^
+||cdn.wetest.qq.com^
+||cdn.wetest.qq.com^
+||cdn.wetst.qq.com^
+||cdn0.mobmore.com^
+||cfg.imtt.qq.com^
+||cfm.pandora.game.qq.com^
+||cgcol.amap.com^
+||cgi.connect.qq.com^
+||charlotte.tdm.qq.com^
+||chat.mtd.qq.com^
+||chatmsg.tencent.com^
+||chatserver.tdm.qq.com^
+||chicago.tdm.qq.com^
+||chong.qq.com^
+||cjhd.mediav.com^
+||ckmap.mediav.com^
+||cl.xzqxzs.com^
+||cl4-cdn.origin-apple.com.akadns.net^
+||cl4.apple.com^
+||cl5-cdn.origin-apple.com.akadns.net^
+||cl5.apple.com.edgekey.net^
+||cl5.apple.com^
+||click.lergao.com^
+||click.linktech.cn^
+||click.mediav.com^
+||click.mz.simba.taobao.com^
+||click.simba.taobao.com^
+||click.stat.hao.360.cn^
+||click.tanx.com^
+||click.tz.simba.taobao.com^
+||click.union.vip.com^
+||click.wrating.com^
+||clickjs.cnzz.com^
+||clientreport.com^
+||clientreport.gfm.qq.com^
+||clientrz2.itop.qq.com^
+||cloud.gsdk.proximabeta.com^
+||cloud.gsdk.proximabeta.com^
+||cloud.gsdk.qq.com^
+||cloud.tc.qq.com^
+||cloud.tdm.qq.com^
+||cloud.tencent.com^
+||cloud.tencent.com^
+||cloud2.gsdk.proximabeta.com:18082^
+||cloud2.gsdk.proximabeta.com^
+||cloudconfig.googleapis.com^
+||cm.baidu.com^
+||cm.dmp.360.cn^
+||cm.e.qq.com^
+||cm.g.doubleclick.net^
+||cm.ipinyou.com^
+||cm.jd.com^
+||cm.lianmeng.360.cn^
+||cm.mct01.com^
+||cm.mediav.com^
+||cm.pos.baidu.com^
+||cmc.tanx.com^
+||cmcdl.cmcm.com^
+||cmn1.qq.com^
+||cms.opendsp.tanx.com^
+||cms.tanx.com^
+||cmshow.gtimg.cn^
+||cn.tdm.qq.com^
+||cnc1.qq.com^
+||cntv.wrating.com^
+||cnzz.com^
+||cnzz.mmstat.com^
+||code.mtd.qq.com^
+||code.tencent.com^
+||coldfusion.tdm.qq.com^
+||com.tencent.beacon^
+||com.tencent.beacon^
+||com.tencent.ig^
+||com.tencent.tmgp.cf^
+||comdata.v.qq.com^
+||commdata.v.qq.com^
+||commerce.mtd.qq.com^
+||commercial.shouji.360.cn^
+||config-msdk.freshchat.com^
+||configsvr.msf.3g.qq.com^
+||configsvr.msf.3g.qq.co^
+||console.cloud.tencent.com^
+||control.mna.qq.com^
+||cookiemapping.wrating.com^
+||core0.tdm.qq.com^
+||counterstrike.tdm.qq.com^
+||cpc.click.alimama.com^
+||cpro.baidu.cn^
+||cpro.baidu.com^
+||cpro.baidustatic.com^
+||cpro2.baidustatic.com^
+||cps.kaola.com^
+||cps.yaoqing.com^
+||cpu-admin.baidu.com^
+||cpu.baidu.com^
+||cpull.360.cn^
+||crl.globalsign.com^
+||crm-eve.b2b.alibaba-inc.com^
+||crmn1.qq.com^
+||crs.baidu.com^
+||cs.mbgame.gamesafe.qq.com^
+||cs.mbgame.gamesafe.qq.com^
+||cs2-wac-eu.8315.ecdns.net^
+||cs2-wac.apr-8315.edgecastdns.net^
+||cu.tdm.qq.com^
+||cust109.tdm.qq.com^
+||cust14.tdm.qq.com^
+||cust23.mtd.qq.com^
+||cust24.tdm.qq.com^
+||cust27.mtd.qq.com^
+||cust53.mtd.qq.com^
+||cust55.mtd.qq.com^
+||cust63.tdm.qq.com^
+||cust64.mtd.qq.com^
+||cust69.tdm.qq.com^
+||cust71.mtd.qq.com^
+||cust82.mtd.qq.com^
+||cwns.qq.com^
+||cwnsbk.qq.com^
+||cy.mtd.qq.com^
+||d0.sinaimg.cn^
+||d1.sinaimg.cn^
+||d2.sinaimg.cn^
+||d3.sinaimg.cn^
+||d3g.qq.com^
+||d6.sinaimg.cn^
+||d7.sinaimg.cn^
+||d77777777.com^
+||d8.sinaimg.cn^
+||data.video.qq.com^
+||data.yd126.com^
+||datax.baidu.com^
+||david.tdm.qq.com^
+||dbregistration.cuteftp.com^
+||dc.ads.linkedin.com^
+||dc.qq.com^
+||dd.iask.cn^
+||debugtbs.qq.com^
+||debugx5.qq.com^
+||dec.tdm.qq.com^
+||deco.qq.com^
+||delta.mtd.qq.com^
+||demos.mtd.qq.com^
+||dev.mtd.qq.com^
+||dev.tencent.com^
+||dev.tg.wan.360.cn^
+||dev.umeng.com^
+||development.mtd.qq.com^
+||devserver.tdm.qq.com^
+||df.tanx.com^
+||dianhua.qq.com^
+||diedl1.qq.com^
+||dingd.cn^
+||display.360totalsecurity.com^
+||distributer.tdm.qq.com^
+||dl.cm.ksmobile.com^
+||dl.wan.sogoucdn.com^
+||dl.xzqxzs.com^
+||dldir.qq.com^
+||dldir1.qq.com^
+||dldir2.qq.com^
+||dldir3.qq.com^
+||dldir4.qq.com^
+||dldir5.qq.com^
+||dldir6.qq.com^
+||dlied.qq.com^
+||dlied.tc.qq.com^
+||dlied.tcdn.qq.com^
+||dlied1.pubgmobile.com^
+||dlied1.qq.com^
+||dlied1.qq.com^
+||dlied1.tc.qq.com^
+||dlied1.tcdn.pubgmobile.com^
+||dlied1.tcdn.qq.com^
+||dlied2.qq.com^
+||dlied2.tc.qq.com^
+||dlied2.tcdn.qq.com^
+||dlied3.qq.com^
+||dlied3.tc.qq.com^
+||dlied3.tcdn.qq.com^
+||dlied4.qq.com^
+||dlied4.tc.qq.com^
+||dlied4.tcdn.qq.com^
+||dlied4.t^
+||dlied5.qq.com^
+||dlied5.tc.qq.com^
+||dlied5.tcdn.qq.com^
+||dlied6.qq.com^
+||dlied6.tc.qq.com^
+||dlied6.tcdn.qq.com^
+||dnf.qq.com^
+||dns.qq.com^
+||doc-10-8s-docs.googleusercontent.com^
+||doc.cnzz.com^
+||docs.bk.tencent.com^
+||docs.itop.qq.com^
+||docs.qq.com^
+||doctor.qq.com^
+||documentos.tdm.qq.com^
+||dov.qq.com^
+||down-update.qq.com^
+||down.qq.cn^
+||down.qq.com^
+||down.qq.com^
+||down.xiazaidc.com^
+||down1.qq.com^
+||down2.qq.com^
+||downlaod.xiaocen.com^
+||download.123cw.cn^
+||download.2.1375135419.igame.gcloudcs.com=119.28.244.50^
+||download.2.1375135419.igame.gcloudcs.com=119.28.244^
+||download.2.1375135419.igame.gcloudcs.com^
+||download.2.1375135419.igame.gcloudcs.com^
+||download.2.1950038955.igamevn.gcloudcs.com^
+||download.fuyuncc.com^
+||download.mediaget.com^
+||download.qianka.com^
+||download.wegame.qq.com^
+||download3.123cw.cn^
+||dp.im.weibo.cn^
+||dp3.qq.com^
+||dreamreader.qq.com^
+||dressimage.img-cn-beijing.aliyuncs.com^
+||drpf-g83.proxima.nie.netease.com^
+||dsl.mtd.qq.com^
+||dsp-click.youdao.com^
+||dsp.simba.taobao.com^
+||dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com^
+||dup.baidustatic.com^
+||dyn.mtd.qq.com^
+||e-p4p.163.com^
+||e.mtd.qq.com^
+||e.tf.360.cn^
+||e14868.dsce9.akamaiedge.net^
+||echo.mtd.qq.com^
+||eclick.baidu.com^
+||ecma.bdimg.com^
+||ecmb.bdimg.com^
+||ecmc.bdimg.com^
+||ecpm.tanx.com^
+||education.tdm.qq.com^
+||educloud.tencent.com^
+||ef-dongfeng.tanx.com^
+||ef.opendsp.tanx.com^
+||ef.tanx.com^
+||eg.mtd.qq.com^
+||egame.qq.com^
+||ei.cnzz.com^
+||eiv.baidu.com^
+||en.qq.com^
+||en.qq.com^
+||eng01.tdm.qq.com^
+||entry.baidu.com^
+||epsilon.tdm.qq.com^
+||ereg.adobe.com^
+||et.tanx.com^
+||eu.pay.proximabeta.com^
+||euping.igamecj.com^
+||euping.igamecj.com^
+||eventlog.beacon.qq.com^
+||ex.mobmore.com^
+||ex.puata.info^
+||ex.tanx.com^
+||ex.umengcloud.com^
+||exmail.qq.com^
+||exp.cc.qq.com^
+||f1.p0y.cn^
+||f2.p0y.cn^
+||f5.qq.com^
+||fanqianbb.com^
+||faststats.mtd.qq.com^
+||fav.simba.taobao.com^
+||fe80::1%lo0 localhost^
+||feed.baidu.com^
+||feedback.whalecloud.com^
+||ff00::0 ip6-localnet^
+||ff00::0 ip6-mcastprefix^
+||ff02::1 ip6-allnodes^
+||ff02::2 ip6-allrouters^
+||ff02::3 ip6-allhosts^
+||ffb.feihuo.com^
+||file-igamecj.akamaized.net^
+||file.igamecj.com^
+||file.ipinyou.com.cn^
+||filecdn.igamecj.com^
+||files.phoenixos.com^
+||fileserver.tdm.qq.com^
+||film.qq.com^
+||fixes.tdm.qq.com^
+||fm.ipinyou.com^
+||fm.p0y.cn^
+||fm.qq.com^
+||fms.ipinyou.com^
+||fonts.gstatic.com^
+||foobar.mtd.qq.com^
+||foto.mtd.qq.com^
+||freebsd0.mtd.qq.com^
+||fs-conn-back-doctor.qq.com^
+||fs-tcp-conn.qq.com^
+||fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com^
+||fs_h2u.qq.com^
+||ftp0.tdm.qq.com^
+||fusion.qq.com^
+||fwsm1.mtd.qq.com^
+||fych.uranus.sogou.com^
+||g.163.com^
+||g.wrating.com^
+||g1max.mediav.com^
+||g1xd.mediav.com^
+||g83.update.netease.com^
+||ga.mtd.qq.com^
+||ga.tdm.qq.com^
+||galaxy.sogoucdn.com^
+||galeria.tdm.qq.com^
+||game.eve.mdt.qq.com^
+||game.qq.com^
+||game.str.mdt.qq.com^
+||game.weibo.cn^
+||game.weibo.com^
+||gameact.qq.com^
+||gameeve.beacon.qq.com^
+||gameguardian.cn^
+||gameguardian.com^
+||gameguardian.net^
+||games.qq.com^
+||gamesafe.qq.com^
+||gamestr.beacon.qq.com^
+||gas.tencent.com^
+||gate.mtd.qq.com^
+||gcloud.qq.com^
+||gcloud.tencent.com^
+||gdynamic.qpic.cn^
+||gen.alicdn.com^
+||gfm.qq.com^
+||gi.xi.gxabj.com^
+||gia.jd.com^
+||gif.lu.sogoucdn.com^
+||girlcc.cc^
+||gjreg.code.weddingeeos.com^
+||globalsign.com^
+||gma.alicdn.com^
+||go.mmstat.com^
+||go.qq.com^
+||gokdown.dlied.qq.com^
+||google-analytics.com^
+||google.com^
+||googleads.g.doubleclick.net^
+||googleadservices.com^
+||googleapis.com^
+||googletagmanager.com^
+||googletagservices.com^
+||gorgon.youdao.com^
+||gp.3g.qq.com^
+||gq.mtd.qq.com^
+||graph.facebook.com/106984190647740^
+||graph.facebook.com^
+||graph.qq.com^
+||group.pcbeta.com^
+||group.tencent.com^
+||groupfile.tencent.com^
+||groupfile2.tencent.com^
+||gsa.apple.com^
+||gsp64-ssl.ls.apple.com^
+||gsx.tdm.qq.com^
+||gt.mtd.qq.com^
+||guanjia.qq.com^
+||guess.tf.360.cn^
+||gw.qq.com^
+||gw5.push.mcp.weibo.cn^
+||gwb.tencent.com^
+||gxb.mmstat.com^
+||gzs20.cnzz.com^
+||h5.jiumaster.com^
+||habo.qq.com^
+||hao.tiandi.com^
+||hao.uc.cn^
+||hao916.com^
+||haostat.qihoo.com^
+||hdm.qq.com^
+||help.cnzz.com^
+||help.tencent.com^
+||hg417.bet^
+||hg89038.com^
+||hg89068.com^
+||hg89078.com^
+||hidden-master.linezing.com^
+||hjc1990.com^
+||hk.api.unipay.qq.com^
+||hk.clientreport.gfm.qq.com^
+||hk.mtd.qq.com^
+||hk.napi.ucweb.com^
+||hkconfig.gcloud.qq.com:11443^
+||hkconfig.gcloud.qq.com^
+||hkconfig.gcloud.qq.com^
+||hkping.igamecj.com^
+||hkping.igamecj.com^
+||hkspeed.igamecj.com^
+||hlrcv.stage.adobe.com^
+||hm.baidu.com^
+||hm2.cnzz.com^
+||hm3.cnzz.com^
+||hot.eastday.com^
+||hpd.baidu.com^
+||hqs1.cnzz.com^
+||hqs4.cnzz.com^
+||hqs7.cnzz.com^
+||hqs9.cnzz.com^
+||hr.tencent.com^
+||hrc.tencent.com^
+||hs.qhupdate.com^
+||htdata.qq.com^
+||htdata3.qq.com^
+||http.route.default-proxy^
+||http.route.default-proxy^
+||http.tdm.qq.com^
+||http://apse.s.ludashi.com^
+||http://cloud.gsdk.proximabeta.com^
+||http://oth.eve.mdt.qq.com^
+||http://pingma.qq.com^
+||http_monitor.html^
+||huatuocode.huatuo.qq.com^
+||hub.mtd.qq.com^
+||huichuan.sm.cn^
+||huid.ad.360.cn^
+||huodong.mobilem.360.cn^
+||hwt.player888.cn^
+||hxueu.code.weddingeeos.com^
+||hz.mmstat.com^
+||hzs10.cnzz.com^
+||hzs12.cnzz.com^
+||hzs13.cnzz.com^
+||hzs14.cnzz.com^
+||hzs17.cnzz.com^
+||hzs2.cnzz.com^
+||hzs23.cnzz.com^
+||hzs3.cnzz.com^
+||hzs5.cnzz.com^
+||hzs7.cnzz.com^
+||hzs8.cnzz.com^
+||hzs9.cnzz.com^
+||hzvs1.cnzz.com^
+||i.gtimg.cn^
+||i.ipinyou.com^
+||i.mmcdn.cn^
+||i.pcbeta.com^
+||iaas.cloud.tencent.com^
+||iad.e.360.cn^
+||iadmat.nosdn.127.net^
+||icon.cnzz.com^
+||id.qq.com^
+||id.qq.com^
+||idc.dir.tdm.qq.com^
+||idc.dir.tdm.qq.com^
+||idc.receiver.tdm.qq.com^
+||idcconfig.gcloud.qq.com^
+||idconfig.gcloud.qq.com^
+||idisk.oa.tencent.com^
+||idm-su.baidu.com^
+||idm.bce.baidu.com^
+||ids.mtd.qq.com^
+||ifs.tanx.com^
+||ig-us-notice.igamecj.com^
+||ig-us-sdkapi.igamecj.com^
+||iid.googleapis.com^
+||iiewl.com^
+||im-x.jd.com^
+||im.qq.com^
+||image.qsm.qq.com^
+||imc.l.qq.com^
+||img-dsp.oss-cn-beijing.aliyuncs.com^
+||img-x.jd.com^
+||img.alimama.cn^
+||img.apnanalytics.com^
+||img.zsj18.com^
+||img1.126.net^
+||img1.gtimg.com^
+||img2.126.net^
+||img3.126.net^
+||imgc.cymzc.com^
+||imgcache.qq.com^
+||imgp.cymzc.com^
+||impservice.dictapp.youdao.com^
+||in-addr.arpa^
+||inapp.1sapp.com^
+||index.woai310.com^
+||inews.qq.com^
+||info.3g.qq.com^
+||init.phpwind.com^
+||init.phpwind.net^
+||insight.cloud.tencent.com^
+||inte.theta.sogoucdn.com^
+||internal.imap.mail.g03.yahoodns.net^
+||internal.tdm.qq.com^
+||intf.cnzz.com^
+||intl.cloud.tencent.com^
+||intldlgs.qq.com/iedsafe/Client/ios/2139^
+||intldlgs.qq.com/iedsafe/Client/ios/8999^
+||intldlgs.qq.com^
+||intlticket.cloud.tencent.com^
+||ios.bugly.qq.com^
+||iosipa.b0.upaiyun.com^
+||iotsec.tencent.com^
+||ipinyou.com.cn^
+||ipinyou.com^
+||ipsecgw.tdm.qq.com^
+||ipv6^
+||ircd.tdm.qq.com^
+||is1-ssl.mzstatic.com^
+||isaserver.mtd.qq.com^
+||isaserver.tdm.qq.com^
+||isdspeed.qq.com^
+||item.mediav.com^
+||j.appjiagu.com^
+||j.wit.qq.com^
+||jf.qq.com^
+||jiayi1.oss-cn-shanghai.aliyuncs.com^
+||jinshagt222.com^
+||jj123.com.cn^
+||jkyx.qq.com^
+||jobs.tencent.com^
+||jp.voice.gcloudcs.com^
+||jpg.inte.sogoucdn.com^
+||jq.qq.com^
+||jqmt.qq.com^
+||js.icast.cn^
+||js.tongji.linezing.com^
+||js.um0592.com^
+||jsadsdisplay.cn-beijing.log.aliyuncs.com^
+||jsapi.qq.com^
+||jserr.cnzz.com^
+||jsqmt.qq.com^
+||jssdk.cnzz.com^
+||jubao.qq.com^
+||juliet.mtd.qq.com^
+||juxiao.mediav.com^
+||jxlog.istreamsche.com^
+||keenlab.tencent.com^
+||km.tencent.com^
+||kog.vmp.qq.com^
+||kriping.igamecj.com^
+||krping.igamecj.com^
+||krping.igamecj.com^
+||kstj.baidu.com^
+||ktivn.uranus.sogou.com^
+||ku6.cnzz.com^
+||kuaibao.qq.com^
+||kw.ra.icast.cn^
+||kwurl.ucweb.com^
+||kxmav2.com^
+||l.qq.com^
+||labs.ra.icast.cn^
+||laptop.mtd.qq.com^
+||lbs.map.qq.com^
+||lc.mtd.qq.com^
+||lc.tencent.com^
+||lcsdk.3g.qq.com^
+||ld.mediaget.com^
+||learn.tencent.com^
+||legal.tdm.qq.com^
+||lh3.googleusercontent.com^
+||lh4.googleusercontent.com^
+||lh5.googleusercontent.com^
+||liangjing.cloud.tencent.com^
+||license.lumion3d.com^
+||license.lumion3d.net^
+||licenses.ashampoo.com^
+||licensing.tableausoftware.com^
+||linezing.com^
+||live.qq.com^
+||lm.licenses.adobe.com^
+||lmlicenses.wip4.adobe.com^
+||lobby.igamecj.com^
+||log.cs.pp.cn^
+||log.mmstat.com^
+||log.tbs.qq.com^
+||log.tdm.qq.com^
+||log.umsns.com^
+||log.wtlogin.qq.com^
+||log.yex.youdao.com^
+||log1.wtlogin.qq.com^
+||logfile.tdm.qq.com^
+||logger.tdm.qq.com^
+||login.microsoftonline.com^
+||long.open.weixin.qq.com^
+||ls.tdm.qq.com^
+||lu.sogou.com^
+||lv.tdm.qq.com^
+||m-adash.m.taobao.com^
+||m.495495.com^
+||m.551144.com^
+||m.640640.com^
+||m.649649.com^
+||m.937920.com^
+||m.baidu.com^
+||m.exmail.qq.com^
+||m.facebook.com^
+||m.game.weibo.cn^
+||m.guanjia.qq.com:443^
+||m.guanjia.qq.com^
+||m.live.qq.com^
+||m.lu.sogou.com^
+||m.pcbeta.com^
+||m.qianka.com^
+||m.qpic.cn^
+||m.qq.com^
+||m.qulishi.com^
+||m.simba.taobao.com^
+||m.tencent.com^
+||m.uc123.com^
+||m.uczzd.cn^
+||m.weibo.cn^
+||m.weibo.com^
+||m.wrating.com^
+||m.xingxd.com^
+||m4.tencent.com^
+||m5.qq.com^
+||mac.pcbeta.com^
+||mac3.tdm.qq.com^
+||macplatform.wondershare.com^
+||magazineunlock.vivo.com.cn^
+||magnifier.tencent.com^
+||mail.qq.com^
+||mail.tencent.com^
+||map.qq.com^
+||mapp.qzone.qq.com^
+||maps.tdm.qq.com^
+||market.cloud.tencent.com^
+||market.m.qq.com^
+||markmonitor.com^
+||masdk.3g.qq.com^
+||masterconn11.qq.com^
+||masterconn2.qq.com^
+||match.p4p.1688.com^
+||material-ssl.mediav.com^
+||material.istreamsche.com^
+||material.mediav.com^
+||max-l.mediav.com^
+||max.mediav.com^
+||mayyb.3g.qq.com^
+||mayyb.cross.3g.qq.com^
+||mazu.3g.qq.com^
+||mb.qq.com^
+||mb.yidianzixun.com^
+||mclick.simba.taobao.com^
+||mdc.html5.qq.com^
+||mdt.qq.com^
+||me.xdrig.com^
+||me.xdring.com^
+||me.zdrig.com^
+||mediav.com^
+||meping.igamecj.com^
+||mgamevideo.serviceproxy.qq.com^
+||mibook-10006092.cos.myqcloud.com^
+||michigan.tdm.qq.com^
+||mini2015.qq.com^
+||minigame.qq.com^
+||minorshort.weixin.qq.com^
+||mipcache.bdstatic.com^
+||mirror.mtd.qq.com^
+||mlb.did.ijinshan.com^
+||mm.tencent.com^
+||mobaders.oss-cn-beijing.aliyuncs.com^
+||mobads-logs.baidu.com^
+||mobads.baidu.com^
+||mobile.opensdk.com^
+||mobileads.msn.com^
+||moka.inte.sogoucdn.com^
+||molobook.qq.com^
+||monitor.uu.qq.com^
+||mp.weixin.qq.com^
+||mqqad.html5.qq.com^
+||mrtg.tdm.qq.com^
+||ms.cmcm.com^
+||msfwifi.3g.qq.com^
+||msg.shouji.360.cn^
+||msg.umengcloud.com^
+||msite.baidu.com^
+||msn.wrating.com^
+||msnclick.wrating.com^
+||mta.oa.com^
+||mta.qq.com^
+||mta.qq.com^
+||mtrace.qq.com^
+||mvp.mediav.com^
+||mw.mtd.qq.com^
+||mws.eu.ngame.proximabeta.com^
+||mws.ngame.proximabeta.com^
+||mx1.qq.com^
+||mx2.qq.com^
+||mx3.qq.com^
+||mxbiz1.qq.com^
+||mycdma.cn^
+||mysql.mtd.qq.com^
+||mysql01.mtd.qq.com^
+||na1r.services.adobe.com^
+||na2m-pr.licenses.adobe.com^
+||naping.igamecj.com^
+||naping.igamecj.com^
+||naspeed.igamecj.com^
+||nba2k.upload_data.qq.com^
+||nbsdk-baichuan.alicdn.com^
+||nbsdk-baichuan.taobao.com^
+||ndy.code.weddingeeos.com^
+||net.rayjump.com^
+||nevada.tdm.qq.com^
+||new.cnzz.com^
+||new.taobc.com^
+||new.tdm.qq.com^
+||newjersey.tdm.qq.com^
+||news.qhstatic.com^
+||news.qq.com^
+||newspush.sinajs.cn^
+||nex.163.com^
+||nh.tdm.qq.com^
+||njs.myyage.com^
+||nm.tdm.qq.com^
+||node.video.qq.com^
+||nombres.tdm.qq.com^
+||northeast.tdm.qq.com^
+||notes.tencent.com^
+||notice.igamecj.com^
+||novell.tdm.qq.com^
+||now.qq.com^
+||ns-cmn1.qq.com^
+||ns-cnc1.qq.com^
+||ns-crmn1.qq.com^
+||ns-ns1.qq.com^
+||ns-open1.qq.com^
+||ns-open2.qq.com^
+||ns-open3.qq.com^
+||ns-os.qq.com^
+||ns-os1.qq.com^
+||ns-osr.qq.com^
+||ns-Owu1.qq.com^
+||ns-tel1.qq.com^
+||ns-telqq.com^
+||ns-teq.com^
+||ns.mtd.qq.com^
+||ns02.adjust.works^
+||ns1.cnzz.com^
+||ns1.qq.com.^
+||ns1.qq.com^
+||ns2.cnzz.com^
+||ns2.qq.com.^
+||ns2.qq.com^
+||ns2.tdm.qq.com^
+||ns3.qq.com.^
+||ns3.qq.com^
+||ns4.qq.com.^
+||ns4.qq.com^
+||nsclick.baidu.com^
+||nsclickvideo.baidu.com^
+||nt.phpwind.com^
+||nt.tdm.qq.com^
+||nt40.tdm.qq.com^
+||ntp.mtd.qq.com^
+||nym2-tr.adnxs.com^
+||nz.qq.com^
+||o.mtd.qq.com^
+||oa-panther.data.aliyun.com^
+||oakland.tdm.qq.com^
+||oc.umeng.com^
+||ocsp1.globalsign.com^
+||ocsp2.globalsign.com^
+||ocsp3.globalsign.com^
+||ocsp4.globalsign.com^
+||ocsp5.globalsign.com^
+||oimsgad.tencent.com^
+||omg.inte.sogoucdn.com^
+||omgid.qq.com^
+||omgmta.qq.com^
+||omgmta1.qq.com^
+||onclkds.com^
+||online.cnzz.com^
+||ope.tanx.com^
+||opehs.tanx.com^
+||open.tencent.com^
+||open.weixin.qq.com^
+||openmobile.qq.com^
+||openrcv.baidu.com^
+||opensdk.tencent.com^
+||opensdktest.tencent.com^
+||ops.qq.com^
+||ops.qq.com^
+||optimus.ipinyou.com^
+||oracle.qq.com^
+||os.qq.com^
+||os1.qq.com^
+||osc.uranus.sogou.com^
+||osr.qq.com^
+||ossweb-img.qq.com^
+||otf.msn.com^
+||oth.eve.mdt.qq.com^
+||oth.eve.mdt.qq.com^
+||oth.str.mdt.qq.com^
+||oth.str.mdt.qq.com^
+||oth.update.mdt.qq.com^
+||oth.update.mdt.qq.com^
+||outbound.tdm.qq.com^
+||Owu1.qq.com^
+||p.alimama.com^
+||p.appjiagu.com^
+||p.egou.com^
+||p.lu.sogou.com^
+||p.mb.qq.com^
+||p.raidmedia.com.cn^
+||p.s.360.cn^
+||p.tanx.com^
+||p.yizuya.com^
+||p16.qhimg.com^
+||p2.qhimg.com^
+||p26-bookmarks.icloud.com^
+||p3p.mmstat.com^
+||p4psearch.china.alibaba.com^
+||p555.cc^
+||p72-buy.itunes-apple.com.akadns.net^
+||p9.qhimg.com^
+||pagead2.googlesyndication.com^
+||pages-juxiao.mediav.com^
+||pages.juxiao.mediav.com^
+||pageshow.dftoutiao.com^
+||paimgcdn.baidu.com^
+||pancake.apple.com^
+||partner.googleadservices.com^
+||patriot.cs.pp.cn^
+||pay.igamecj.com^
+||pbs.twimg.com^
+||pc.videoclick.baidu.com^
+||pc101.mtd.qq.com^
+||pc101.tdm.qq.com^
+||pc18.mtd.qq.com^
+||pc27.tdm.qq.com^
+||pc47.mtd.qq.com^
+||pc53.mtd.qq.com^
+||pc57.mtd.qq.com^
+||pcbeta.com^
+||pcminitj.dftoutiao.com^
+||pcookie.cnzz.com^
+||pcookie.cnzz.net^
+||pcookie.tanx.com^
+||pcxzo.pluto.sogou.com^
+||pdlxf.qq.com^
+||pe.tdm.qq.com^
+||pengyou.qq.com^
+||pg.qq.com^
+||phoenixstudio.org^
+||photos.mtd.qq.com^
+||phs.tanx.com^
+||pimg1.126.net^
+||pingfore.qq.com:443^
+||pingfore.qq.com^
+||pingjs.qq.com:443^
+||pingjs.qq.com^
+||pingma.qq.com^
+||pingma.qq.com^
+||pingmid.qq.com^
+||pingmid.qq.com^
+||pingtcss.qq.com^
+||pj3456.com^
+||pj38330.bet^
+||pj39330.bet^
+||pj39330.com^
+||pj50.com^
+||pj5189.com^
+||pk.tdm.qq.com^
+||pl108258.puserving.com^
+||platform-lookaside.fbsbx.com/platform^
+||platform-lookaside.fbsbx.com^
+||platform.wondershare.com^
+||play.cc.qq.com^
+||play.googleapis.com^
+||player.qq.com^
+||plbslog.umeng.com^
+||pmir.3g.qq.com^
+||pms.mb.qq.com^
+||pn.tdm.qq.com^
+||png.lu.sogoucdn.com^
+||polls.mtd.qq.com^
+||pop.tdm.qq.com^
+||pop3.mtd.qq.com^
+||popme.163.com^
+||portal.wsds.cn^
+||pos.baidu.com^
+||pos.qq.com^
+||position.dftoutiao.com^
+||post.ra.icast.cn^
+||pp9899.com^
+||ppp11.mtd.qq.com^
+||ppp14.mtd.qq.com^
+||pre.ra.icast.cn^
+||promote.biz.weibo.cn^
+||promotion.aliyun.com^
+||ps.tdm.qq.com^
+||pt.tdm.qq.com^
+||ptlogin2.qq.com^
+||ptlogin2.tencent.com^
+||pubads.g.doubleclick.net^
+||pubgm.helpshift.com^
+||pubgm.zing.vn^
+||pubgm.zing.vn^
+||pubgmobile.com^
+||pubgmobile.helpshift.com^
+||pubgmvn.helpshift.com^
+||puds.test.uae.uc.cn^
+||puds.ucweb.com^
+||puffer.4.1375135419.igame.gcloudcs.com=119.28.244.50^
+||puffer.4.1375135419.igame.gcloudcs.com^
+||puffer.4.1375135419.igame.gcloudcs.com^
+||push.o.tencent.com^
+||push.wandoujia.com^
+||push.zhanzhang.baidu.com^
+||puui.qpic.cn^
+||pv.focus.cn^
+||pv.mediav.com^
+||pvp.qq.com^
+||pw.cnzz.com^
+||pw.mtd.qq.com^
+||px.ads.linkedin.com^
+||q.mtd.qq.com^
+||q.qlogo.cn^
+||q1.cnzz.com^
+||q12.cnzz.com^
+||q14.cnzz.com^
+||qappcenter.3g.qq.com^
+||qbwup.imtt.qq.com^
+||qhero.qq.com^
+||qhm1.cnzz.com^
+||qhm2.cnzz.com^
+||qm.qq.com^
+||qos.game.qq.com^
+||qos.gcloud.qq.com^
+||qos.gcl^
+||qos.hk.gcloudcs.com^
+||qos.hk.gcloudcs.com^
+||qq.cc.qq.com^
+||qq.cn^
+||qq.com^
+||qq.video.cc.qq.com^
+||qqhelper.qq.com^
+||qqmail.tencent.com^
+||qqpic.cc.qq.com^
+||qqshow-user.tencent.com^
+||qqshow2-item.qq.com^
+||qs.game.qq.com^
+||qstore.inner.api.sj.360.cn^
+||quan.qq.com^
+||quanjing.cnzz.com^
+||quotes.tdm.qq.com^
+||qxm.pluto.sogou.com^
+||qzone.qq.com^
+||qzs.qq.com^
+||r.xcycm.com^
+||r2.mtd.qq.com^
+||r6.mo.baidu.com^
+||rcgi.video.qq.com^
+||rd.tdm.qq.com^
+||rd.wan.360.cn^
+||rdstat.tanx.com^
+||re.m.taobao.com^
+||re.taobao.com^
+||receiver.tdm.qq.com^
+||redirect.simba.taobao.com^
+||redpaper-10006092.cos.myqcloud.com^
+||relay.tdm.qq.com^
+||relayserver2.tencent.com^
+||report.huatuo.qq.com:443^
+||report.huatuo.qq.com^
+||report.syzs.qq.com:443^
+||report.syzs.qq.com^
+||res.golden.qq.com^
+||res.imtt.qq.com^
+||res.mmstat.com^
+||res.qhupdate.com^
+||rescn.u3.ucweb.com^
+||rfq.tencent.com^
+||rho.tdm.qq.com^
+||river.zhidao.baidu.com^
+||rlog.video.qq.com^
+||rmi.mtd.qq.com^
+||robert.tdm.qq.com^
+||rqd.sparta.mig.tencent-cloud.net^
+||rqd.uu.qq.com^
+||rr.video.qq.com^
+||rs.mtd.qq.com^
+||rs.sinajs.cn^
+||rtx.tencent.com^
+||s.360.cn^
+||s.alitui.weibo.com^
+||s.appjiagu.com^
+||s.cpro.baidu.com^
+||s.ipinyou.com^
+||s.lianmeng.360.cn^
+||s.pc.qq.com:443^
+||s.pc.qq.com^
+||s.phpwind.com^
+||s.qhupdate.com^
+||s.qq.com^
+||s.sh.qihoo.com^
+||s.tencent.com^
+||s.union.360.cn^
+||s.wrating.com^
+||s.xcfe.cn^
+||s1.cnzz.com^
+||s1.milkjpg.com^
+||s1.qq.com^
+||s1.stat.lianmeng.360.cn^
+||s10.cnzz.com^
+||s100.cnzz.com^
+||s101.cnzz.com^
+||s102.cnzz.com^
+||s103.cnzz.com^
+||s104.cnzz.com^
+||s105.cnzz.com^
+||s106.cnzz.com^
+||s107.cnzz.com^
+||s108.cnzz.com^
+||s109.cnzz.com^
+||s11.cnzz.com^
+||s110.cnzz.com^
+||s111.cnzz.com^
+||s112.cnzz.com^
+||s113.cnzz.com^
+||s114.cnzz.com^
+||s115.cnzz.com^
+||s116.cnzz.com^
+||s117.cnzz.com^
+||s118.cnzz.com^
+||s119.cnzz.com^
+||s12.cnzz.com^
+||s120.cnzz.com^
+||s121.cnzz.com^
+||s122.cnzz.com^
+||s123.cnzz.com^
+||s124.cnzz.com^
+||s125.cnzz.com^
+||s126.cnzz.com^
+||s127.cnzz.com^
+||s128.cnzz.com^
+||s129.cnzz.com^
+||s13.cnzz.com^
+||s130.cnzz.com^
+||s131.cnzz.com^
+||s132.cnzz.com^
+||s133.cnzz.com^
+||s134.cnzz.com^
+||s135.cnzz.com^
+||s136.cnzz.com^
+||s137.cnzz.com^
+||s138.cnzz.com^
+||s139.cnzz.com^
+||s14.cnzz.com^
+||s140.cnzz.com^
+||s141.cnzz.com^
+||s142.cnzz.com^
+||s15.cnzz.com^
+||s16.cnzz.com^
+||s17.cnzz.com^
+||s175.cnzz.com^
+||s18.cnzz.com^
+||s19.cnzz.com^
+||s2.cnzz.com^
+||s2.qq.com^
+||s20.cnzz.com^
+||s21.cnzz.com^
+||s22.cnzz.com^
+||s23.cnzz.com^
+||s24.cnzz.com^
+||s25.cnzz.com^
+||s26.cnzz.com^
+||s27.cnzz.com^
+||s28.cnzz.com^
+||s29.cnzz.com^
+||s3.cnzz.com^
+||s3.qq.com^
+||s30.cnzz.com^
+||s31.cnzz.com^
+||s32.cnzz.com^
+||s33.cnzz.com^
+||s34.cnzz.com^
+||s35.cnzz.com^
+||s36.cnzz.com^
+||s37.cnzz.com^
+||s38.cnzz.com^
+||s39.cnzz.com^
+||s3m.mediav.com^
+||s4.cnzz.com^
+||s4.qq.com^
+||s40.cnzz.com^
+||s41.cnzz.com^
+||s42.cnzz.com^
+||s43.cnzz.com^
+||s44.cnzz.com^
+||s45.cnzz.com^
+||s46.cnzz.com^
+||s47.cnzz.com^
+||s48.cnzz.com^
+||s49.cnzz.com^
+||s5.cnzz.com^
+||s5.qq.com^
+||s50.cnzz.com^
+||s51.cnzz.com^
+||s52.cnzz.com^
+||s53.cnzz.com^
+||s54.cnzz.com^
+||s55.cnzz.com^
+||s56.cnzz.com^
+||s57.cnzz.com^
+||s58.cnzz.com^
+||s59.cnzz.com^
+||s6.cnzz.com^
+||s6.qq.com^
+||s60.cnzz.com^
+||s61.cnzz.com^
+||s62.cnzz.com^
+||s63.cnzz.com^
+||s64.cnzz.com^
+||s65.cnzz.com^
+||s66.cnzz.com^
+||s67.cnzz.com^
+||s68.cnzz.com^
+||s69.cnzz.com^
+||s7.cnzz.com^
+||s70.cnzz.com^
+||s71.cnzz.com^
+||s72.cnzz.com^
+||s73.cnzz.com^
+||s74.cnzz.com^
+||s75.cnzz.com^
+||s76.cnzz.com^
+||s77.cnzz.com^
+||s78.cnzz.com^
+||s79.cnzz.com^
+||s8.cnzz.com^
+||s80.cnzz.com^
+||s81.cnzz.com^
+||s82.cnzz.com^
+||s83.cnzz.com^
+||s84.cnzz.com^
+||s85.cnzz.com^
+||s86.cnzz.com^
+||s87.cnzz.com^
+||s88.cnzz.com^
+||s89.cnzz.com^
+||s9.cnzz.com^
+||s90.cnzz.com^
+||s91.cnzz.com^
+||s92.cnzz.com^
+||s93.cnzz.com^
+||s94.cnzz.com^
+||s95.cnzz.com^
+||s96.cnzz.com^
+||s97.cnzz.com^
+||s98.cnzz.com^
+||s99.cnzz.com^
+||sams.nikonimaging.com^
+||sandbox.api.unipay.qq.com^
+||sandbox.pay.proximabeta.com^
+||saping.igamecj.com^
+||saping.igamecj.com^
+||saturn.tdm.qq.com^
+||sb88b.com^
+||scm.tencent.com^
+||scmclient-policy.tencent.com^
+||scmclient-update.tencent.com^
+||script.crazyegg.com^
+||sdk.mediav.com^
+||sdk.mobad.ijinshan.com^
+||sdkapp.uve.weibo.com^
+||sdksp.video.qq.com^
+||sdsp.ipinyou.com^
+||sea.napi.ucweb.com^
+||secure.globalsign.com^
+||secure.mediav.com^
+||secure.qq.com^
+||secure.security.qq.com^
+||secure.tcdn.qq.com^
+||secure.tencent.com^
+||secured.tdm.qq.com^
+||securepubads.g.doubleclick.net^
+||security.tencent.com^
+||serial.alcohol-soft.com^
+||server.m.pp.cn^
+||service.jiagu.360.cn^
+||service.tencent.com^
+||set2.exmail.qq.com^
+||setting.snswin.qq.com^
+||sf.symcd.com^
+||sg.tdm.qq.com^
+||sg01.rayjump.com^
+||shake.360.cn^
+||shake.f.360.cn^
+||share.proximabeta.com^
+||sharechain.qq.com^
+||shopping.mtd.qq.com^
+||shore.is.autonavi.com^
+||short.wecall.qq.com^
+||shouji.yd126.com^
+||show-3.mediav.com^
+||show-f.mediav.com^
+||show-g.mediav.com^
+||show-m.mediav.com^
+||show-s.mediav.com^
+||show.3.mediav.com^
+||show.g.mediav.com^
+||show.look.360.cn^
+||show.m.mediav.com^
+||show.mediav.com^
+||show.qq.com^
+||show.re.taobao.com^
+||si.tdm.qq.com^
+||siebel.mtd.qq.com^
+||silver.mtd.qq.com^
+||simba.m.taobao.com^
+||simhub.tencent.com^
+||sin1-ib.adnxs.com^
+||sina.mediav.com^
+||sina.wrating.com^
+||sitedb.cnzz.com^
+||sky.imap.mail.yahoo.com^
+||smarty.cloud.tencent.com^
+||smtp.qq.com^
+||smtpbg430.qq.com^
+||smtpbg431.qq.com^
+||smtpbg440.qq.com^
+||smtpbg441.qq.com^
+||sngapm.tencent.com^
+||sngmta.qq.com^
+||snmp.mtd.qq.com^
+||soft.tbs.imtt.qq.com^
+||sohu.wrating.com^
+||south.tdm.qq.com^
+||southwest.mtd.qq.com^
+||speed.ino.qq.com^
+||spro.so.com^
+||sq11.pg.qq.com^
+||sq8.pg.qq.com^
+||sq9.pg.qq.com^
+||sql01.tdm.qq.com^
+||sqlobby.pg.com^
+||sqlobby.pg.qq.com^
+||sr.tdm.qq.com^
+||srd.simba.taobao.com^
+||ss.subo.me^
+||ssd.tcdn.qq.com^
+||ssjj.qq.com^
+||ssl.cloud.gsdk.qq.com^
+||ssl.google-analytics.com^
+||ssl.qq.com^
+||ssl.qq.com^
+||ssl0.mtd.qq.com^
+||ssxd.mediav.com^
+||staging.tdm.qq.com^
+||star.c10r.facebook.com^
+||stat.lianmeng.360.cn^
+||stat.simba.taobao.com^
+||stat.tf.360.cn^
+||static-ssl.mediav.com^
+||static.alimama.com^
+||static.doubleclick.net^
+||static.googleadsserving.cn^
+||static.hotjar.com^
+||static.mct01.com^
+||static.mediav.com^
+||static.template.pcbeta.com^
+||staticadm.leju.sina.com.cn^
+||statistic.3g.qq.com^
+||statlog.cc.netease.com^
+||stats.guess.tf.360.cn^
+||stats.ipinyou.com^
+||stats.umsns.com^
+||str.mdt.qq.com^
+||strategy.beacon.qq.com^
+||strategy.beacon.qq.com^
+||streaming.mtd.qq.com^
+||strip.alicdn.com^
+||strip.taobaocdn.com^
+||stun.qq.com^
+||su.bdimg.com^
+||su.bdstatic.com^
+||supplier.tdm.qq.com^
+||sw01.tdm.qq.com^
+||swpgjai.pop.weddingeeos.com^
+||sy.guanjia.qq.com:443^
+||sy.guanjia.qq.com^
+||sysback.tdm.qq.com^
+||sysupgrade.vivo.com.cn^
+||syzs.qq.com^
+||sz.btfs.mail.ftn.qq.com^
+||sz.mtd.qq.com^
+||sz.tencent.com^
+||sz2.tencent.com^
+||sz3.tencent.com^
+||sz4.tencent.com^
+||sz5.tencent.com^
+||sz6.tencent.com^
+||sz7.tencent.com^
+||sz8.tencent.com^
+||sz9.tencent.com^
+||szga.gov.cn^
+||szmg.qq.com^
+||t-start.tencent.com^
+||t.alimama.com^
+||t.atpanel.com^
+||t.dsp.mediav.com^
+||tactics.bainv.net^
+||tajs.qq.com^
+||tanxlog.istreamsche.com^
+||taotao.qq.com^
+||tapd.tencent.com^
+||tauth.qq.com^
+||tcpconn.tencent.com^
+||tcpconn2.tencent.com^
+||tcpconn3.tencent.com^
+||tcpconn4.tencent.com^
+||tcpconn5.tencent.com^
+||tcpconn6.tencent.com^
+||tcpmconn1.tencent.com^
+||tcptm.tencent.com^
+||tel1.qq.com^
+||telephony.tdm.qq.com^
+||telqq.com^
+||temai.taobao.com^
+||temp.163.com^
+||tencent.com^
+||tencentgames.helpshift.com^
+||tencentmind.com^
+||teq.com^
+||terminal.tdm.qq.com^
+||test.vmp.qq.com^
+||testsite.mtd.qq.com^
+||textlink.simba.taobao.com^
+||tf.360.cn^
+||tgb.qq.com^
+||theta.sogoucdn.com^
+||thirdqq.qlogo.cn^
+||thirdwx.qlogo.cn^
+||ti.qq.com^
+||time.tencent.com^
+||titan.tdm.qq.com^
+||tj.video.qq.com^
+||tm.mtd.qq.com^
+||tob-cms.bj.bcebos.com^
+||tongji.leju.com^
+||tongji.linezing.com^
+||tongji.wrating.com^
+||tools.3g.qq.com^
+||top.h.qhimg.com^
+||top.h.qhmsg.com^
+||toruk.tanx.com^
+||tpc.googlesyndication.com^
+||tpns.qq.com/8080^
+||tpns.qq.com^
+||tr.p.360.cn^
+||trace.qq.com^
+||track.easeus.com^
+||track.mediav.com^
+||track.uc.cn^
+||tracking.v.tf.360.cn^
+||tran.mediav.com^
+||tran.news.so.com^
+||transfer.qq.com^
+||trial.alcohol-soft.com^
+||trip.qq.com^
+||ts1.qq.com^
+||ts10.qq.com^
+||ts2.qq.com^
+||ts3.qq.com^
+||ts4.qq.com^
+||ts5.qq.com^
+||ts6.qq.com^
+||ts7.qq.com^
+||ts8.qq.com^
+||ts9.qq.com^
+||ttjx-online.cn-hangzhou.log.aliyuncs.com^
+||tunion-api.m.taobao.com^
+||tunnel.mtd.qq.com^
+||tunnel.video.qq.com^
+||tw.alimama.cn^
+||twlobby.igamecj.com/17500^
+||twlobby.igamecj.com^
+||u-x.jd.com^
+||u.api.look.360.cn^
+||u.ctrip.com^
+||u.raidmedia.com.cn^
+||u.uc123.com^
+||u.ucfly.com^
+||u.x.jd.com^
+||u.yizuya.com^
+||uat1.bfsspadserver.8le8le.com^
+||ubmcmm.baidustatic.com^
+||uc.pcbeta.com^
+||uc9.ucweb.com^
+||ucus.ucweb.com^
+||udash.umengcloud.com^
+||udpolimenew.baidu.com^
+||ugcsjy.qq.com^
+||ulogs.umeng.com^
+||um0592.com^
+||umeng.com^
+||unconf.mobad.ijinshan.com^
+||union.dangdang.com^
+||unitacs.m.taobao.com^
+||up1.tj.u2.ucweb.com^
+||up4.ucweb.com^
+||upd.faronicslabs.com^
+||update.bainv.net^
+||update1.dlied.qq.com^
+||update2.dlied.qq.com^
+||updates-s3.binaryage.com^
+||upfile.wj.qq.com^
+||upload_data.qq.com^
+||uplze.code.weddingeeos.com^
+||upmobile.v.qq.com^
+||upoll.umengcloud.com^
+||uqszvk.code.weddingeeos.com^
+||url.tudown.com^
+||users.qq.com^
+||usvpn.tencent.com^
+||utilities.mtd.qq.com^
+||utop.umengcloud.com^
+||uy.mtd.qq.com^
+||uyunad.com^
+||v.dbncp.com^
+||v.qq.com^
+||v.tf.360.cn^
+||v00087.com^
+||v1.cnzz.com^
+||v10.cnzz.com^
+||v11.cnzz.com^
+||v12.cnzz.com^
+||v13.cnzz.com^
+||v14.cnzz.com^
+||v2.cnzz.com^
+||v3.cnzz.com^
+||v4.cnzz.com^
+||v5.cnzz.com^
+||v6.cnzz.com^
+||v66v66.com^
+||v7.cnzz.com^
+||v8.cnzz.com^
+||v9.cnzz.com^
+||vc.mtd.qq.com^
+||vcdn.adnxs.com^
+||view.mediav.com^
+||viking.mtd.qq.com^
+||vip.qq.com^
+||vj0.42422277.com^
+||vjoz.lu.sogou.com^
+||vm.gtimg.cn^
+||vm.qq.com^
+||vm.qq.com^
+||vmp.qq.com^
+||vmp.qq.com^
+||vn543.com^
+||vnet.mobi^
+||vnglobby.igamecj.com^
+||vngpublic.igamecj.com^
+||vnlobby.igamecj.com^
+||vnping.igamecj.com^
+||vnpublic.igamecj.com^
+||voicemail.tdm.qq.com^
+||vp.html5.qq.com^
+||vpn0.tdm.qq.com^
+||vpnfreeszct.tencent.com^
+||vpnhk.tencent.com^
+||vpnszdx.tencent.com^
+||vs2.gzcu.u3.ucweb.com^
+||vt.ipinyou.com^
+||vv.video.qq.com^
+||w.cnzz.com^
+||w.m.taobao.com^
+||w2.tdm.qq.com^
+||w2528.com^
+||wam.tdm.qq.com^
+||wangmeng.baidu.com^
+||wap3.ucweb.com^
+||wbapp.mobile.sina.cn^
+||wbapp.uve.weibo.com^
+||wbclick.mobile.sina.cn^
+||wbpctips.mobile.sina.cn^
+||wds.inte.sogoucdn.com^
+||web.pcbeta.com^
+||web2.qq.com^
+||weblib.mtd.qq.com^
+||webmaster.qq.com^
+||webrtx.tencent.com^
+||webrtx2.tencent.com^
+||webstat.ws.126.net^
+||wechatapd.tencent.com^
+||weibo.com^
+||weixin.qq.com^
+||weixin.qq.com^
+||wenku-cms.bj.bcebos.com^
+||wgo.mmstat.com^
+||whalecloud.com^
+||win2k.mtd.qq.com^
+||wins.tdm.qq.com^
+||withzz.tencent.com^
+||wn.pos.baidu.com^
+||wn.x.jd.com^
+||wnskg.qq.com^
+||wnsmusic.qq.com^
+||woodpecker.uc.cn^
+||wp.qq.com^
+||wpa.qq.com^
+||ws8.tdm.qq.com^
+||wspeed.qq.com^
+||wss.cnzz.com^
+||wtlogin.qq.com^
+||wup.imtt.qq.com^
+||wx.qlogo.cn^
+||wx.video.cc.qq.com^
+||wx1.qq.com^
+||x.jd.com^
+||x5.tencent.com^
+||xbp.code.weddingeeos.com^
+||xd.mediav.com^
+||xf.qq.com^
+||xg.qq.com^
+||xiaoma.tencent.com^
+||xiaowei.tencent.com^
+||xiazai.downok.com^
+||xjpconfig.gcloud.qq.com^
+||xl.qq.com^
+||xlab.tencent.com^
+||xlogan.mtd.qq.com^
+||xpj1.net^
+||xpj2.net^
+||xpj3.net^
+||xpj4.net^
+||xpj8088.com^
+||xpjkf888.com^
+||xpjylc9977.com^
+||xshow.tencent.com^
+||xtruh.uranus.sogou.com^
+||xuanfengnet.qq.com^
+||xyy.code.weddingeeos.com^
+||xz-development.oss-cn-beijing.aliyuncs.com^
+||y.qq.com^
+||yd126.com^
+||ydpushserver.youdao.com^
+||ye.mtd.qq.com^
+||yeah.qq.com^
+||yingli.tencent.com^
+||yingxiao.baidu.com^
+||ylwy168.com^
+||yoyo.qq.com^
+||ysdk.qq.com^
+||ysej.code.weddingeeos.com^
+||yt-adp.nosdn.127.net^
+||yt.mmstat.com^
+||yun-hl.3g.qq.com^
+||yyb.eve.mdt.qq.com^
+||z1.cnzz.com^
+||z11.cnzz.com^
+||z13.cnzz.com^
+||z2.cnzz.com^
+||z4.cnzz.com^
+||z5.cnzz.com^
+||z6.cnzz.com^
+||z7.cnzz.com^
+||z8.cnzz.com^
+||z9.cnzz.com^
+||zc.qq.com^
+||zs1.cnzz.com^
+||zs10.cnzz.com^
+||zs11.cnzz.com^
+||zs12.cnzz.com^
+||zs13.cnzz.com^
+||zs14.cnzz.com^
+||zs15.cnzz.com^
+||zs16.cnzz.com^
+||zs2.cnzz.com^
+||zs25.cnzz.com^
+||zs3.cnzz.com^
+||zs4.cnzz.com^
+||zs5.cnzz.com^
+||zs6.cnzz.com^
+||zs7.cnzz.com^
+||zs8.cnzz.com^
+||zs9.cnzz.com^
+||ztrpm.lu.sogou.com^
+||zvs1.cnzz.com^
+||zvs2.cnzz.com^
+||zymo.mps.weibo.com^
+||zz.bdstatic.com^
