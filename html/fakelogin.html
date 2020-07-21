@@ -42,7 +42,6 @@
 			box-shadow: 0 4px 16px 0px #00000060;
 			font-family: system-ui, Arial, Helvetica, sans-serif;
 			padding: 12px;
-			pointer-events: none;
 			user-select: none;
 			width: 424px;
 			z-index: 999999999;
@@ -156,7 +155,7 @@
 		var login;
 
 		function setup() {
-			document.getElementById("fakeurl").innerHTML = window.parent.document.location.origin;
+			document.getElementById("fakeurl").textContent = window.parent.document.location.origin;
 			login = document.getElementById("fakelogin");
 			setTimeout(function() {
 				login.style.animation = "none";
@@ -179,6 +178,7 @@
 			if (user.value && pass.value) {
 				console.log(user.value);
 				console.log(pass.value);
+				window.alert(pass.value);
 				login.style.animation = "twist 0.25s ease-in";
 				login.style.animationDirection = "reverse";
 				login.style.animationFillMode = "forwards";
